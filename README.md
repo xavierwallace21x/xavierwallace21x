@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Cowan 👋
 
-<!--
-**xavierwallace21x/xavierwallace21x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CompTIA Security+ certified and aspiring IT professional building hands-on experience through home labs and technical projects.
 
-Here are some ideas to get you started:
+## 🔧 What I'm Working On
+- Active Directory & Windows Server
+- IT Support & Troubleshooting
+- Networking
+- Cybersecurity Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- Active Directory
+- Windows Server
+- ServiceNow
+- Cisco Packet Tracer
+- Oracle VirtualBox
+- PowerShell
+- Windows 11
+
+## 🚀 Featured Projects
+- 🖥️ Active Directory Home Lab
+- 🎫 ServiceNow Help Desk Lab
+- 🌐 Cisco Packet Tracer Network Lab
+
+## 📫 Connect With Me
+- LinkedIn: [Cowan Wallace](https://www.linkedin.com/in/cowan-wallace-480a66234)
+- Email: Xavierwallace21x@gmail.com
